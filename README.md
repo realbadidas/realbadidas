@@ -10,4 +10,3 @@ My Website: https://clan-asc.de
 Any questions? Add me on Discord.
 </pre>
 <br /><br />
-![Cool meme](https://i.imgur.com/7X6hYmK.png)
