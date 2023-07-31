@@ -4,9 +4,6 @@
 
 <br /><br />
 <pre>
-My Discord: badidas
-My Website: https://clan-asc.de
-
-Any questions? Add me on Discord.
+Hello
 </pre>
 <br /><br />
