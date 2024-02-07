@@ -4,6 +4,6 @@
 
 <br /><br />
 <pre>
-Hello
+if you like python you are weird
 </pre>
 <br /><br />
